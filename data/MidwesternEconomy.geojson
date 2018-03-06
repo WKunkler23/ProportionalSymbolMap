@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "City": "Chicago", "Largest Sector": "Manufactoring", "Largest Sector2": "Chemical Manufactoring", "Largest Sector3": "printing", "latitude": 41.881832, "longitude": -87.623117 }, "geometry": { "type": "Point", "coordinates": [ -87.623117, 41.881832 ] } },
+{ "type": "Feature", "properties": { "City": "Detroit", "Largest Sector": "Technology", "Largest Sector2": "Bioscience", "Largest Sector3": "auto manufacturing", "latitude": 42.331429, "longitude": -83.045753 }, "geometry": { "type": "Point", "coordinates": [ -83.045753, 42.331429 ] } },
+{ "type": "Feature", "properties": { "City": "Madison", "Largest Sector": "Agribusiness", "Largest Sector2": "Health care", "Largest Sector3": "Insurance", "latitude": 43.0730517, "longitude": -89.4012302 }, "geometry": { "type": "Point", "coordinates": [ -89.4012302, 43.0730517 ] } },
+{ "type": "Feature", "properties": { "City": "Milwuake", "Largest Sector": "Auto manufacturing", "Largest Sector2": "Insurance", "Largest Sector3": "Contract Employment", "latitude": 43.038902, "longitude": -87.906471 }, "geometry": { "type": "Point", "coordinates": [ -87.906471, 43.038902 ] } },
+{ "type": "Feature", "properties": { "City": "St. Louis", "Largest Sector": "Bioscience", "Largest Sector2": "Health care", "Largest Sector3": "Education", "latitude": 38.627003, "longitude": -90.199402 }, "geometry": { "type": "Point", "coordinates": [ -90.199402, 38.627003 ] } },
+{ "type": "Feature", "properties": { "City": "Indianapolis", "Largest Sector": "Trade, transportation and utilities", "Largest Sector2": "professional and business services", "Largest Sector3": "government", "latitude": 39.768826, "longitude": -86.168968 }, "geometry": { "type": "Point", "coordinates": [ -86.168968, 39.768826 ] } },
+{ "type": "Feature", "properties": { "City": "Cincinnati", "Largest Sector": "advanced energy", "Largest Sector2": "advanced manufactoring", "Largest Sector3": "BioHealth", "latitude": 39.103119, "longitude": -84.512016 }, "geometry": { "type": "Point", "coordinates": [ -84.512016, 39.103119 ] } },
+{ "type": "Feature", "properties": { "City": "Cleveland", "Largest Sector": "Auto manufacturing", "Largest Sector2": "Banking and Finance", "Largest Sector3": "Electric and Lighting", "latitude": 41.505493, "longitude": -81.68129 }, "geometry": { "type": "Point", "coordinates": [ -81.68129, 41.505493 ] } },
+{ "type": "Feature", "properties": { "City": "Columbus", "Largest Sector": "Auto manufacturing", "Largest Sector2": "Insurance", "Largest Sector3": "Data Centers", "latitude": 40.367474, "longitude": -82.996216 }, "geometry": { "type": "Point", "coordinates": [ -82.996216, 40.367474 ] } },
+{ "type": "Feature", "properties": { "City": "Des Moines", "Largest Sector": "Advanced Manufactoring", "Largest Sector2": "Agbioscience", "Largest Sector3": "Data Centers", "latitude": 41.619549, "longitude": -93.598022 }, "geometry": { "type": "Point", "coordinates": [ -93.598022, 41.619549 ] } },
+{ "type": "Feature", "properties": { "City": "Minneapolis", "Largest Sector": "Biosiences", "Largest Sector2": "Manufactoring", "Largest Sector3": "Data Centers", "latitude": 44.986656, "longitude": -93.258133 }, "geometry": { "type": "Point", "coordinates": [ -93.258133, 44.986656 ] } }
+]
+}

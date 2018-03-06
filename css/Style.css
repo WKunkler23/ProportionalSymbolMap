@@ -1,0 +1,85 @@
+#mapid { 
+       margin-right: 200px;
+        height: 600px;
+        width: 81.5%;
+        display: inline-block;
+}
+
+.navbar-brand {
+    text-align: center;
+    margin-left: 375px;
+}
+
+#panel {
+
+    width: 26%;
+    padding: 20px;
+    display: inline-block;
+    line-height: 42px;
+    vertical-align: top
+   
+}
+
+
+.legend-control-container{
+    width: 150px;
+    height: 100px;
+    background-color: lightgray;
+    font-size: 10px;
+}
+.sideNav{
+    height: 100%;
+    width: 10;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: lightgrey;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 10px;
+    
+}
+
+    
+}
+
+#UETrigger{
+    position: absolute;
+    font-size: 25%;
+    padding-right: 25px;
+}
+
+
+.sideNav a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+
+    
+#title{
+  margin-left: 150px;  
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.range-slider {
+    width: 200px;
+    margin: auto;
+}
+#forward{
+    height: 40px;
+    float: right;
+}
+#reverse{
+height: 40px;
+float: left;
+}
